@@ -12,3 +12,21 @@ You will need to have the following before continuing:
 Store the keys and url in Google Collab Secrets. Refer to this article on how to store the keys.
 
 Store the keys and url in Google Collab Secrets. Refer to this [article](https://medium.com/@parthdasawant/how-to-use-secrets-in-google-colab-450c38e3ec75) on how to store the keys.
+
+# References
+1. Combining LangChain and Weaviate [Link](https://weaviate.io/blog/combining-langchain-and-weaviate)
+
+1. LangChain Vectorstores: Weaviate [Link](https://python.langchain.com/docs/integrations/vectorstores/weaviate#prerequisites)
+
+1. Data used in Demo: InsuranceQA Corpus [Link](https://github.com/shuzi/insuranceQA/tree/master)
+
+1. Retrieval-Augmented-Generation from theory to LangChain implementation [Link](https://towardsdatascience.com/retrieval-augmented-generation-rag-from-theory-to-langchain-implementation-4e9bd5f6a4f2).
+
+1. Question Answering in Weaviate with OpenAI Q&A module [Link](https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/weaviate/question-answering-with-weaviate-and-openai.ipynb)
+
+1. Building an Interactive Streaming Chatbot with Langchain, Transformers, and Gradio [Link](https://medium.com/@shrinath.suresh/building-an-interactive-streaming-chatbot-with-langchain-transformers-and-gradio-93b97378353e)
+
+1. Creating Your Own Chatbot: A Beginner-Friendly Tutorial with OpenAI, LangChain, Gradio, and Wikipedia [Link](https://medium.com/@kristenkehrer/creating-your-own-chatbot-a-beginner-friendly-tutorial-with-openai-langchain-gradio-and-8440c96fc9b4)
+
+1. Getting Started with Weaviate: A Beginner’s Guide to Search with Vector Databases [Link](https://towardsdatascience.com/getting-started-with-weaviate-a-beginners-guide-to-search-with-vector-databases-14bbb9285839)
+
