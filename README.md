@@ -1,6 +1,12 @@
 # PolicyPal
 PolicyPal is a demo chatbot experience to redefine the way users engage with insurance. Say goodbye to complicated forms and confusing jargon – with PolicyPal, obtaining insurance information becomes as easy as having a conversation. This demo utilizes Retrieval-Augmented Generation (RAG) on an open-source [insurance Q&A corpus](https://github.com/shuzi/insuranceQA/tree/master) with real-world user questions on various insurance domains.
 
+
+
+https://github.com/julianaddison/gen-ai-rag/assets/32608788/d185f7fd-a868-47b2-a5db-58318455039f
+
+
+
 ## Tech Stack
 In this Google Collab notebook, a RAG pipeline in Python is implemented using OpenAI's LLM in combination with a Weaviate vector database and an OpenAI embedding model. LangChain is used for orchestration with Gradio's ChatBot module used as a simple web user interface.
 
