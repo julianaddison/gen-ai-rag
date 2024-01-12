@@ -4,6 +4,8 @@ PolicyPal is a demo chatbot experience to redefine the way users engage with ins
 ## Tech Stack
 In this Google Collab notebook, a RAG pipeline in Python is implemented using OpenAI's LLM in combination with a Weaviate vector database and an OpenAI embedding model. LangChain is used for orchestration with Gradio's ChatBot module used as a simple web user interface.
 
+![PolicyPal RAG Workflow Architecture Diagram.png](https://github.com/julianaddison/gen-ai-rag/blob/main/PolicyPal%20RAG%20Workflow%20Architecture%20Diagram.png)
+
 ## Prerequisites
 You will need to have the following before continuing:
 
